@@ -183,14 +183,3 @@ public:
   }
 
 };
-
-
-int main()
-{
-
-C_handler obj("M=D+1;JMP");
-cout<<obj.out();
-
-
-  return 0;
-}
