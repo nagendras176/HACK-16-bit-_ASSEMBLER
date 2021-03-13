@@ -1,5 +1,5 @@
 //this is handler for A A_instruction
-#include <bitset>
+//#include <bitset>
 
 class A_handler{
 private:
@@ -27,7 +27,7 @@ public:
 
   std::string output()
   {
-    return this->binary;
+    return "0"+this->binary;
   }
 
 

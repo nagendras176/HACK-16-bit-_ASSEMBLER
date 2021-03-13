@@ -1,3 +1,6 @@
+namespace A{
+
+
 struct symbols{
   std::string name;
   int val;
@@ -28,3 +31,11 @@ symbols symbol[1000]={
   {"SCREEN",16384},
   {"KBD",24576},
 };
+
+
+
+int sym_cout=23;
+int valu=16;
+
+
+}
